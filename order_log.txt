@@ -51,3 +51,8 @@
 2024-08-22 11:31:48.517144: Bill generated: Bill_10_1724306508 for Table 10 with final amount 198.0
 2024-08-22 11:32:14.349049: Failed order attempt: Table 10, Menu 4 is unavailable
 2024-08-22 11:32:14.364690: Failed order attempt: Table 10, Menu 8 is unavailable
+2024-08-22 12:18:26.800074: Failed order attempt: Table 10, Menu 4 is unavailable
+2024-08-22 12:18:26.803515: Failed order attempt: Table 10, Menu 8 is unavailable
+2024-08-22 12:18:45.780585: Order placed: Table 10, Menu 5, Quantity 2
+2024-08-22 12:18:45.785844: Order placed: Table 10, Menu 6, Quantity 3
+2024-08-22 12:18:45.801142: Bill generated: Bill_10_1724309325 for Table 10 with final amount 297.0
