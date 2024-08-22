@@ -1,7 +1,7 @@
 from bill_generator import *
 
 # Object creation
-restaurant = Restaurant(tbl_id=10)
+restaurant = Restaurant(tbl_id=11)
 
 # Place orders
 order1 = restaurant.place_order(menu_id=5, quantity=2)
