@@ -108,4 +108,3 @@ class Restaurant:
         print(f"|including GST 10% =     {bill_data['gst_charges']}      |")
         print(f"|Final amount      =     {bill_data['final_amount']}     |")
         print("-"*40)
-
