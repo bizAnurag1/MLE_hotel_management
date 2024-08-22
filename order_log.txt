@@ -1,0 +1,53 @@
+2024-08-13 12:45:29.852159: Order placed: Table 1, Menu 10, Quantity 2
+2024-08-13 12:48:46.252512: Order placed: Table 1, Menu 10, Quantity 2
+2024-08-13 12:52:51.617262: Order placed: Table 1, Menu 10, Quantity 2
+2024-08-13 12:53:26.243779: Order placed: Table 1, Menu 10, Quantity 2
+2024-08-13 12:53:55.945565: Order placed: Table 1, Menu 10, Quantity 2
+2024-08-13 12:53:55.945565: Order placed: Table 1, Menu 7, Quantity 3
+2024-08-13 12:55:24.256099: Bill generated: Bill_1_1723533924 for Table 1 with final amount 1199.0
+2024-08-13 13:00:34.438373: Order placed: Table 1, Menu 10, Quantity 2
+2024-08-13 13:00:34.444400: Order placed: Table 1, Menu 7, Quantity 3
+2024-08-13 13:00:37.711832: Bill generated: Bill_1_1723534237 for Table 1 with final amount 341.0
+2024-08-13 13:07:09.001882: Bill generated: Bill_1_1723534628 for Table 1 with final amount 341.0
+2024-08-13 13:07:59.832455: Order placed: Table 2, Menu 1, Quantity 2
+2024-08-13 13:07:59.832455: Order placed: Table 2, Menu 2, Quantity 2
+2024-08-13 13:08:00.884790: Bill generated: Bill_2_1723534680 for Table 2 with final amount 110.0
+2024-08-14 01:26:18.656943: Failed order attempt: Table 3, Menu 4 is unavailable
+2024-08-14 01:26:18.672531: Order placed: Table 3, Menu 19, Quantity 2
+2024-08-14 01:28:21.252134: Order placed: Table 3, Menu 13, Quantity 3
+2024-08-14 01:28:21.259870: Order placed: Table 3, Menu 15, Quantity 1
+2024-08-14 01:31:11.837201: Order placed: Table 3, Menu 10, Quantity 2
+2024-08-14 01:31:11.837201: Order placed: Table 3, Menu 20, Quantity 1
+2024-08-14 01:31:13.027712: Bill generated: Bill_3_1723579273 for Table 3 with final amount 539.0
+2024-08-14 01:37:41.625217: Order placed: Table 4, Menu 10, Quantity 2
+2024-08-14 01:37:41.642078: Order placed: Table 4, Menu 20, Quantity 1
+2024-08-14 01:37:52.508375: Bill generated: Bill_4_1723579672 for Table 4 with final amount 187.0
+2024-08-14 01:40:53.304715: Order placed: Table 5, Menu 9, Quantity 2
+2024-08-14 01:40:53.310653: Order placed: Table 5, Menu 11, Quantity 1
+2024-08-14 01:40:55.901731: Bill generated: Bill_5_1723579855 for Table 5 with final amount 192.5
+2024-08-14 01:42:46.930369: Order placed: Table 5, Menu 13, Quantity 2
+2024-08-14 01:42:46.946964: Order placed: Table 5, Menu 11, Quantity 1
+2024-08-14 01:42:47.612274: Bill generated: Bill_5_1723579967 for Table 5 with final amount 275.0
+2024-08-14 01:44:17.801231: Order placed: Table 6, Menu 6, Quantity 2
+2024-08-14 01:44:17.801231: Order placed: Table 6, Menu 7, Quantity 3
+2024-08-14 01:44:17.816906: Bill generated: Bill_6_1723580057 for Table 6 with final amount 319.0
+2024-08-20 18:14:15.040947: Order placed: Table 6, Menu 6, Quantity 2
+2024-08-20 18:14:15.040947: Order placed: Table 6, Menu 7, Quantity 3
+2024-08-20 18:14:15.057551: Bill generated: Bill_6_1724157855 for Table 6 with final amount 319.0
+2024-08-20 18:14:50.836086: Order placed: Table 6, Menu 6, Quantity 2
+2024-08-20 18:14:50.840266: Order placed: Table 6, Menu 7, Quantity 3
+2024-08-20 18:14:50.849516: Bill generated: Bill_6_1724157890 for Table 6 with final amount 638.0
+2024-08-21 11:46:36.758045: Order placed: Table 6, Menu 6, Quantity 2
+2024-08-21 11:46:36.763660: Order placed: Table 6, Menu 7, Quantity 3
+2024-08-21 11:46:36.769867: Bill generated: Bill_6_1724220996 for Table 6 with final amount 319.0
+2024-08-22 11:30:37.225515: Order placed: Table 6, Menu 6, Quantity 2
+2024-08-22 11:30:37.230014: Order placed: Table 6, Menu 7, Quantity 3
+2024-08-22 11:30:37.243773: Bill generated: Bill_6_1724306437 for Table 6 with final amount 319.0
+2024-08-22 11:31:08.715614: Order placed: Table 9, Menu 6, Quantity 2
+2024-08-22 11:31:08.733794: Order placed: Table 9, Menu 7, Quantity 3
+2024-08-22 11:31:08.749080: Bill generated: Bill_9_1724306468 for Table 9 with final amount 319.0
+2024-08-22 11:31:48.480444: Failed order attempt: Table 10, Menu 4 is unavailable
+2024-08-22 11:31:48.486021: Order placed: Table 10, Menu 7, Quantity 3
+2024-08-22 11:31:48.517144: Bill generated: Bill_10_1724306508 for Table 10 with final amount 198.0
+2024-08-22 11:32:14.349049: Failed order attempt: Table 10, Menu 4 is unavailable
+2024-08-22 11:32:14.364690: Failed order attempt: Table 10, Menu 8 is unavailable
