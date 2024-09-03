@@ -11,4 +11,4 @@ if order1 or order2:
 # Generate the bill
     restaurant.generate_bill()
 else:
-    print("There is unavailability of ordered items.")
+    print("There might unavailability of ordered items.")
