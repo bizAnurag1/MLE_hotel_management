@@ -15,4 +15,4 @@ if first_order or second_order:
 # Generate the bill
     restaurant.generate_bill()
 else:
-    print("There is unavailability of ordered items.")
+    print("There might unavailability of ordered items.")
