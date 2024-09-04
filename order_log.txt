@@ -56,3 +56,6 @@
 2024-08-22 12:18:45.780585: Order placed: Table 10, Menu 5, Quantity 2
 2024-08-22 12:18:45.785844: Order placed: Table 10, Menu 6, Quantity 3
 2024-08-22 12:18:45.801142: Bill generated: Bill_10_1724309325 for Table 10 with final amount 297.0
+2024-09-05 00:38:40,901: INFO -- Order placed: Table 12, Menu 5, Quantity 2
+2024-09-05 00:38:40,902: INFO -- Order placed: Table 12, Menu 6, Quantity 3
+2024-09-05 00:38:40,917: INFO -- Bill generated: Bill_12_1725476920 for Table 12 with final amount 379.5
